@@ -1,7 +1,9 @@
 ## First Step 1:
 
-Git for windows - https://git-scm.com/download/win
-GitHub Desktop - https://github-windows.s3.amazonaws.com/GitHubSetup.exe (https://desktop.github.com)
+`Git for windows (Git Bash) - https://git-scm.com/download/win` 
+
+`GitHub Desktop (Git Desktop) - https://github-windows.s3.amazonaws.com/GitHubSetup.exe (https://desktop.github.com)`
+
 
 # Step 2:
 
@@ -90,11 +92,13 @@ git push -u origin master
 # Change username and email global
 
 `git config --global user.name "<username>"`
+ 
 `git config --global user.email "<email>"`
 
 # Change username and email for current repo
 
 `git config  user.name "<username>" --replace-all`
+ 
 `git config  user.email "<email>" --replace-all`
 
 https://stackoverflow.com/questions/8840551/configuring-user-and-password-with-git-bash
