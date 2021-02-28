@@ -8,7 +8,7 @@ git init
 
 git add <filename>
 
-git add *
+git add . (For all files add)
 
 git commit -m "Commit message"
 
