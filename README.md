@@ -1,8 +1,29 @@
+## First Step 1:
+
+Git for windows - https://git-scm.com/download/win
+GitHub Desktop - https://github-windows.s3.amazonaws.com/GitHubSetup.exe (https://desktop.github.com)
+
+# Step 2:
+
+Create Master Repository
+Give access to all Memebers whow will work on this repository
+  Setting->Invite Member
+
+# Step 3:
+
+Get Clone of the repository
+ git clone <URL>
+  
+# Step 4
+
+# # Commit Process
+
+
 Check out a repository
 
 Create a working copy of a local repository:
 
-git clone /path/to/repository
+`git clone /path/to/repository`
 
 git init
 
