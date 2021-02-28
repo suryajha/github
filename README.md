@@ -84,3 +84,19 @@ or push an existing repository from the command line
 git remote add origin https://github.com/sarveshhome/elearning.git
 
 git push -u origin master
+
+
+
+# Change username and email global
+
+`git config --global user.name "<username>"`
+`git config --global user.email "<email>"`
+
+# Change username and email for current repo
+
+`git config  user.name "<username>" --replace-all`
+`git config  user.email "<email>" --replace-all`
+
+https://stackoverflow.com/questions/8840551/configuring-user-and-password-with-git-bash
+
+
